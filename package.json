@@ -1,0 +1,12 @@
+{
+  "name": "1_hw",
+  "version": "1.0.0",
+  "description": "First homework to course of React ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "begin": "node index.js"
+  },
+  "author": "Bogdan Gamidi",
+  "license": "ISC"
+}
