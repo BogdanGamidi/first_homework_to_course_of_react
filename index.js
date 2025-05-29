@@ -1,4 +1,4 @@
-const messageBeforePullRequest = "Good evening";
+const messageBeforePullRequest = "Good evening, reviewer";
 console.log(messageBeforePullRequest);
 
 const messageAfterPullRequest = "How was your day?";
